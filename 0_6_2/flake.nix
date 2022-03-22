@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-linalg-0_6_2.flake = false;
+  inputs.src-linalg-0_6_2.ref   = "refs/tags/0.6.2";
   inputs.src-linalg-0_6_2.owner = "andreaferretti";
-  inputs.src-linalg-0_6_2.ref   = "0_6_2";
   inputs.src-linalg-0_6_2.repo  = "linear-algebra";
   inputs.src-linalg-0_6_2.type  = "github";
   
