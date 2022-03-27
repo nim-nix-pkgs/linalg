@@ -11,6 +11,7 @@
   inputs.src-linalg-0_5_3.ref   = "refs/tags/0.5.3";
   inputs.src-linalg-0_5_3.owner = "andreaferretti";
   inputs.src-linalg-0_5_3.repo  = "linear-algebra";
+  inputs.src-linalg-0_5_3.dir   = "";
   inputs.src-linalg-0_5_3.type  = "github";
   
   inputs."nimblas".owner = "nim-nix-pkgs";

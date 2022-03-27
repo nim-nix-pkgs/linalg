@@ -11,6 +11,7 @@
   inputs.src-linalg-0_1_5.ref   = "refs/tags/0.1.5";
   inputs.src-linalg-0_1_5.owner = "andreaferretti";
   inputs.src-linalg-0_1_5.repo  = "linear-algebra";
+  inputs.src-linalg-0_1_5.dir   = "";
   inputs.src-linalg-0_1_5.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
