@@ -1,0 +1,10 @@
+nimcache
+/blas
+/a.out
+/main
+bench/matrix_matrix_mult
+bench/cuda/matrix_vector_mult
+tests/all
+tests/cublas
+*.ndb
+nimsuggest.log
